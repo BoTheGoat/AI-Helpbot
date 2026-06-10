@@ -24,7 +24,11 @@ A Java-based helpdesk ticketing system built to practice backend development, JD
 
 ## Version 1 Screenshots
 
-*(Add screenshots here later)*
+
+
+<img width="418" height="143" alt="image" src="https://github.com/user-attachments/assets/90c6df88-8c01-4cb4-9374-b2f7a290d129" />
+
+
 
 ## Future Plans
 
