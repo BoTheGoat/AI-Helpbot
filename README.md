@@ -25,10 +25,18 @@ A Java-based helpdesk ticketing system built to practice backend development, JD
 ## Version 1 Screenshots
 
 ### View All Tickets
-<img width="635" height="148" alt="image" src="https://github.com/user-attachments/assets/6ccd7bf3-575d-4cf8-b907-1ade196b533f" />
 
-#Create Ticket
-<img width="450" height="643" alt="image" src="https://github.com/user-attachments/assets/4cc548cb-02eb-4418-9952-c07265c7aebf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ccd7bf3-575d-4cf8-b907-1ade196b533f" width="700" alt="View all tickets screenshot">
+</p>
+
+---
+
+### Create Ticket
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cc548cb-02eb-4418-9952-c07265c7aebf" width="450" alt="Create ticket screenshot">
+</p>
 
 
 
