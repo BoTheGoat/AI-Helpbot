@@ -1,56 +1,45 @@
-# AI Helpdesk
+# AI Helpdesk Assistant
 
-A Java-based helpdesk ticketing system built to practice backend development, JDBC, MySQL, and software design patterns.
+Java-based helpdesk application that integrates Python-powered AI analysis to automatically categorize support tickets, assign priority levels, and generate troubleshooting recommendations.
 
-## Features
+## Technologies
 
-✅ Create Tickets
+* Java
+* Python
+* MySQL
+* JDBC
+* Gson
 
-✅ View All Tickets
+## Version 1
 
-✅ Search Tickets by ID
+* Create support tickets
+* Search tickets by ID
+* View all tickets
+* MySQL database integration
+* DAO architecture
 
-✅ MySQL Database Integration
+## Version 2
 
-✅ DAO Pattern Implementation
+* Python-powered AI ticket analysis
+* Automatic category detection
+* Automatic priority assignment
+* Troubleshooting recommendations
+* JSON communication between Java and Python
+* AI analysis storage in MySQL
 
-## Tech Stack
+## Architecture
 
-- Java 8
-- JDBC
-- MySQL
-- NetBeans
-- Git/GitHub
+User → Java Console App → Python Analyzer → JSON Response → Java (Gson) → MySQL
 
-## Version 1 Screenshots
+## Planned Version 3
 
-### View All Tickets
+* Machine learning-based ticket classification
+* Confidence score improvements
+* Follow-up question generation
+* Ticket status updates and workflow management
+* Spring Boot REST API
+* Web-based interface
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6ccd7bf3-575d-4cf8-b907-1ade196b533f" width="700" alt="View all tickets screenshot">
-</p>
+## Author
 
----
-
-### Create Ticket
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4cc548cb-02eb-4418-9952-c07265c7aebf" width="450" alt="Create ticket screenshot">
-</p>
-
-
-
-
-
-## Future Plans
-
-### Version 2
-- AI-powered ticket analysis
-- Automatic category detection
-- Automatic priority assignment
-- Troubleshooting recommendations
-
-### Version 3
-- Spring Boot REST API
-- Web-based interface
-- User authentication
+Blessing
